@@ -5,7 +5,7 @@ on:
 
 env:
   IMAGEBUILDER_URL: https://downloads.immortalwrt.org/releases/25.12.1/targets/x86/64/immortalwrt-imagebuilder-25.12.1-x86-64.Linux-x86_64.tar.zst
-  EXTRA_PACKAGES: luci-i18n-firewall-zh-cn luci-i18n-package-manager-zh-cn curl nano qemu-ga
+  EXTRA_PACKAGES: luci-i18n-firewall-zh-cn luci-i18n-package-manager-zh-cn curl nano qemu-ga luci-i18n-msd_lite-zh-cn
   PROFILE: generic
   ROOTFS_PARTSIZE: 1024
 
